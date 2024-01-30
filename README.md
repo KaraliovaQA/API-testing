@@ -7,6 +7,6 @@ WSDL:
 * http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL 
   
 Коллекции в Soap UI:  
-+ [ USERS-soapui-project.xml ](  )  
-+ [ numberconversion-soapui-project.xml ]( https://drive.google.com/drive/u/0/my-drive )  
-+ [ CountryInfoService-soapui-project.xml ]( https://github.com/KaraliovaQA/SoapUI-testing/blob/main/USERS-soapui-project.md )
++ [ USERS-soapui-project ](  )  
++ [ numberconversion-soapui-project ]( [https://drive.google.com/drive/u/0/my-drive](https://github.com/KaraliovaQA/SoapUI-testing/blob/main/numberconversion-soapui-project.md) )  
++ [ CountryInfoService-soapui-project ]( https://github.com/KaraliovaQA/SoapUI-testing/blob/main/USERS-soapui-project.md )
