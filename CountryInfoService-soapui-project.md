@@ -1,4 +1,4 @@
-## USERS-soapui-project
+## CountryInfoService-soapui-project
 
 CapitalCity
 ![image](https://github.com/KaraliovaQA/API-testing/assets/100686591/b33e895e-dba6-45ee-8f60-0091721f0a35)
