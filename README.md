@@ -1,6 +1,6 @@
-# REST and SOAP API testing in Postman
+# SOAP testing.
 
-В рамках задания я протестировала все методы в Soap UI и создала соответствующие коллекции.  
+В рамках задания я протестировала все методы в SoapUI и создала соответствующие коллекции.  
 WSDL:
 * http://users.bugred.ru/tasks/soap/WrapperSoapServer.php?wsdl
 * http://www.dataaccess.com/webservicesserver/numberconversion.wso?WSDL
